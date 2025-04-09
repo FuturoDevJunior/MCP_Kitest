@@ -1,5 +1,15 @@
 # MCP Test Assistant
 
+<div align="center">
+  <h1>⚠️ EM DESENVOLVIMENTO | UNDER DEVELOPMENT ⚠️</h1>
+  <p style="background-color: #FFE44D; padding: 15px; border-radius: 5px;">
+    <strong>🚧 ATENÇÃO:</strong> Este projeto está em fase ativa de desenvolvimento.<br>
+    <strong>🚧 ATTENTION:</strong> This project is in active development phase.
+  </p>
+</div>
+
+---
+
 [![CI/CD](https://github.com/yourusername/mcpteste/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/mcpteste/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/yourusername/mcpteste/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/mcpteste)
 [![Documentation Status](https://github.com/yourusername/mcpteste/workflows/docs/badge.svg)](https://yourusername.github.io/mcpteste/)
